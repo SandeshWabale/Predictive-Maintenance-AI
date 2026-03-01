@@ -46,8 +46,4 @@ predictive-maintenance-ai/
 ├── final_scaler.pkl
 └── requirements.txt
 ```
-├── app.py
-├── feature_names.txt
-├── final_model.pkl
-├── final_scaler.pkl
-└── requirements.txt
+
