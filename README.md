@@ -4,7 +4,7 @@ A real‑time machine failure prediction system with interactive dashboards, eng
 
 ## 🚀 Live Demo
 
-👉 **[Launch the app]([https://your-app-url.streamlit.app](https://predictive-maintenance-ai-z5rvc5aybzvpxagypn78g4.streamlit.app/))** – try it now without any installation.
+👉 **[Launch the app](https://your-app-url.streamlit.app](https://predictive-maintenance-ai-z5rvc5aybzvpxagypn78g4.streamlit.app/))** – try it now without any installation.
 
 ## ✨ Features
 
